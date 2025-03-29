@@ -33,8 +33,8 @@ Easy integration: JSON input/output for developers
 5. Click **"Execute"** to see the prediction!
 
 
-## 📷 Dashboard Preview
-  <img width="646" alt="Dashboard_image" src="https://github.com/user-attachments/assets/c8afb16e-d0df-46ba-b0f2-79ba951fe460" />
+## 📷 API Preview
+  <img width="646" alt="API_image" src="(https://github.com/Arrayar/ADHD-API/tree/main/screenshots)" />
 
 
 ## 🛠️ Tools Used
