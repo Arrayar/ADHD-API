@@ -18,23 +18,18 @@ Easy integration: JSON input/output for developers
 ## 🌐 How to Use the API
 ### Via Swagger UI (Recommended for Testing)
 1. Visit the live docs: 🔗<a href="https://adhd-datascience-project.onrender.com/docs">LINK</a>
-2.Expand the **POST /predict** endpoint
-3.Click **"Try it out"**
-4.Paste this sample input (or modify values):
-{
-  "age": 25,
-  "attention_score": 3.2,
-  "hyperactivity_score": 2.1,
-  "academic_index": 0.85,
-  "ball_total": 1,
-  "sex_female": 1,
-  "sex_male": 0
-}
+2. Expand the **POST /predict** endpoint
+3. Click **"Try it out"**
+4. modify values
 5. Click **"Execute"** to see the prediction!
 
-
 ## 📷 API Preview
-  <img width="646" alt="API_image" src="(https://github.com/Arrayar/ADHD-API/tree/main/screenshots)" />
+  <img width="646" alt="API_image" src="https://github.com/Arrayar/ADHD-API/blob/main/screenshots/Screenshot%202025-03-29%20055324.png"/>
+  <img width="646" alt="API_image" src="(https://github.com/Arrayar/ADHD-API/blob/main/screenshots/Screenshot%202025-03-29%20055338.png)"/>
+
+
+
+
 
 
 ## 🛠️ Tools Used
