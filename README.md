@@ -23,22 +23,14 @@ Easy integration: JSON input/output for developers
 4. modify values
 5. Click **"Execute"** to see the prediction!
 
-## 📷 API Preview
-  <img width="646" alt="API_image" src="https://github.com/Arrayar/ADHD-API/blob/main/screenshots/Screenshot%202025-03-29%20055324.png"/>
-  <img width="646" alt="API_image" src="(https://github.com/Arrayar/ADHD-API/blob/main/screenshots/Screenshot%202025-03-29%20055338.png)"/>
+
+## 🏁 Conclusion
+This API provides a scalable way to screen for ADHD risk factors, enabling integration with healthcare apps or research tools. The live deployment demonstrates:
+- ✅ ML model operationalization
+- ✅ Clean API design
+- ✅ Real-world applicability
+
+## 🔗 Links
+<a href=" https://adhd-datascience-project.onrender.com/docs">Live API</a>
 
 
-
-
-
-
-## 🛠️ Tools Used
-- **Tableau** for data visualization
-- **SQL/Excel** for data preprocessing
-- **AdventureWorks Dataset** as the data source
-
-## 🔗 Live Dashboard
-<a href="https://public.tableau.com/views/Adventureworks_chinu/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard Link</a> 
-
----
-⭐ **If you found this project useful, consider giving it a star!** ⭐
